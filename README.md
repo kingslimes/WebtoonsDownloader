@@ -1,6 +1,6 @@
 # WebtoonsDownloader
 ## How to use
-### Run Webtoons Downloader.py and paste the cartoon URL and hit enter.
+### Easy, just paste your comic url.
 example
 ```
 Webtoons downloader [Version 1.6.11.9042.867]
